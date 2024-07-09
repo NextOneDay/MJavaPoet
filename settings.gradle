@@ -1,0 +1,2 @@
+include ':app', ':annotation', ':annotation_compiler', ':mybutterknife'
+rootProject.name='APT_JavaPoet'
